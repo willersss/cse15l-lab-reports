@@ -1,5 +1,5 @@
 # How to log into a course-specific account on ieng6
-__1. Install VSCode.__ VSCode is what you will use in order to run the commands necessary to log into ieng6. You do this by downloading VSCode through their website. After downloading and opening it, you should see a screen similar to the bottom:
+__1. Install VSCode.__ VSCode is what you will use in order to run the commands necessary to log into ieng6. You do this by downloading VSCode through their [website](https://code.visualstudio.com/). After downloading and opening it, you should see a screen similar to the bottom:
 
 ![image](VSCodeStarter.png)
 
