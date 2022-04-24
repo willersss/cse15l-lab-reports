@@ -1,25 +1,5 @@
-Hello!
-I am __extremely__ tired _aaaaa_ 
-# Spaghetti
-## no brain moment
-[This is so cool lmao](https://willersss.github.io/cse15l-lab-reports/index.html)
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Spaghettoni.jpg/500px-Spaghettoni.jpg)
-> yo hahahaha 
-* bok
-* bok
-* bok
+# Links to Lab Reports
 
-1. spaghetti
-2. pasta
-3. uhhh yea
+__[Lab Report 1](https://willersss.github.io/cse15l-lab-reports/lab-report-1-week-2.html)__
 
-Horizontal rule thingY?
----
-
-`god i want boba` very badly
-```
-boba
-what is this
-bobaobaobaobaoboboba ooga booga
-please boba
-```
+__[Lab Report 2](https://willersss.github.io/cse15l-lab-reports/lab-report-2-week-4.html)__
