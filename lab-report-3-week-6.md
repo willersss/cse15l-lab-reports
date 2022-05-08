@@ -21,13 +21,11 @@ The private key can be seen in my ssh folder:
 
 ![image](privateKey.png)
 
-After doing this, I was able to commit any changes made to `markdown-parser` to my Github.
+After doing this, I was able to commit and push any changes made to `markdown-parser` to my Github, as shown below.
 
-![image](githubCommit.png)
+![image](gitCommitAndPull.png)
 
-However, I was not able to push any of my changes to Github due to this error:
-
-![image](githubPull.png)
+As seen, the push runs successfully and can be found [in the commit history of the `markdown-parser` repo.](https://github.com/willersss/markdown-parser/commit/dcea3beca0efc103879399ab066daf0d145679f6)
 
 # Copy whole directories with `scp -r`
 
