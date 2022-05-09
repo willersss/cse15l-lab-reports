@@ -15,7 +15,7 @@ I could now use commands using `ieng6` instead of typing in my entire login. For
 
 To do this, I copied my public key and added it to GitHub:
 
-![image](publicKey.png)
+![image](newPublicKey.png)
 
 The private key can be seen in my ssh folder:
 
